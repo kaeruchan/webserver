@@ -1,6 +1,6 @@
 +++
 bg_image = ""
 description = ""
-title = "member"
+title = "members"
 
 +++
