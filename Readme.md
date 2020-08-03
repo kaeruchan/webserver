@@ -6,4 +6,4 @@ Markdown, Yaml and html based website.
 
 ## Usage
 
-Please check the documents of [hugo](http://http://gohugo.io/).
+Please check the documents of [hugo](http://gohugo.io/).
