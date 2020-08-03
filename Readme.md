@@ -1,4 +1,4 @@
-# Ochiailab Webpages (powered by [hugo](http://http://gohugo.io/), theme powered by [airspace](https://github.com/themefisher/airspace-hugo))
+# Ochiailab Webpages (powered by [hugo](http://gohugo.io/), theme powered by [airspace](https://github.com/themefisher/airspace-hugo))
 
 ---
 
