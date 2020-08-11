@@ -2,8 +2,57 @@
 mission_vision:
   enable : true
   tabs:
+    - name : "Professor"
+      content : "
+      ![Hideki Ochiai](../images/members/photo_ochiai.jpg)
+
+
+      Dr. Hideki OCHIAI
+
+
+      
+      "
+
+
     # tab item loop
-    - name : "Vision"
+    - name : "Secretary"
+      content : "
+      ![Naoko Shibukawa](../images/members/photo_shibukawa.png)
+
+
+      Naoko SHIBUKAWA
+      "
+
+    # tab item loop
+    - name : "PhD Course"
+      content : "
+
+      ![Ying Sun](../images/members/D/sun.jpg)
+
+
+      Ying SUN
+
+
+      ![Tianji Shen](../images/members/D/shen.jpg)
+
+
+      Tianji SHEN
+
+
+      ![Yuto Hama](../images/members/D/hama.jpeg)
+
+
+      Yuto HAMA
+
+
+      ![Ahmad Shahpoor Seraj](../images/members/D/seraj.jpg)
+
+
+      Ahmad Shahpoor SERAJ
+      "
+      
+    # tab item loop
+    - name : "M2"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
       harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
       quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
@@ -14,7 +63,7 @@ mission_vision:
       temporibus eos sequi alias hic nemo."
       
     # tab item loop
-    - name : "Mission"
+    - name : "M1"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
       harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
       quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
@@ -23,15 +72,13 @@ mission_vision:
       suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
       illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
       temporibus eos sequi alias hic nemo."
-      
+
     # tab item loop
-    - name : "Approach"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-      harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-      quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-      voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-      iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-      suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-      illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo."
+    - name : "B4"
+      content : "ewewewewe"
+
+
+    # tab item loop
+    - name : "Alumni & Alumnae"
+      content : "wqewqejwqiejqwijeiwqje"
 
