@@ -49,7 +49,7 @@ link = "plugins/google-map/gmap.js"
 [params]
 logo = "images/logo1.png"
 # Meta data
-description = "This is meta description"
+description = "Welcome to Ochiai Laboratory"
 author = "Themefisher"
 # Contact Information
 phone = "(+81)80-6887-4315"
