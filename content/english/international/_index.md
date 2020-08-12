@@ -85,3 +85,95 @@ bg_image: "images/featue-bg.jpg"
    *IEEE Access*, 
    vol. 6, pp. 70952-70963, Nov. 2018.
   
+1. K. Masukawa and H. Ochiai, 
+   **"A Coded MIMO Spatial Multiplexing Approach 
+   with Low-Complexity Matched-Filter Detector 
+   and CRC-Assisted Interference Cancellation,"**
+   *Proceedings of IEEE Military Communications Conference*
+   ***(MILCOM2018)***, 
+   Los Angeles, USA, Oct. 2018.
+
+1. Y. Watanabe and H. Ochiai,
+   **"Exploiting variable-length padding bits 
+   for decoder performance improvement 
+   with its application to compressed 
+   video transmission,"**
+   *Signal Processing: Image Communication*, 
+   vol. 66, pp. 66-76, August 2018.
+   
+1. D. Yoda and H. Ochiai, 
+   **"Decision region optimization 
+   and metric-based compensation 
+   of memoryless nonlinearity for APSK systems,"** 
+   *IEEE Transactions on Broadcasting*, 
+   vol. 64, no. 2, pp. 281-292, June 2018.
+
+1. Y. Hama and H. Ochiai,
+   **"Performance Comparison of Low-Complexity MIMO System 
+   with Matched-Filter Detector 
+   and Interference Cancellation,"** 
+   *Proceedings of 25th IEEE International Conference 
+   on Telecommunications* 
+   ***(ICT2018)***, 
+   Saint-Malo, France, June 2018.
+   
+1. T. Matsumine and H. Ochiai, 
+   **"A design of non-binary turbo codes over finite fields based 
+   on Gaussian approximation and union bounds,"** 
+   *Proceedings of 2018 IEEE Vehicular Technology 
+   Conference Spring*
+   ***(VTC2018-Spring)***, 
+   Porto, Portugal, June 2018.
+   
+1. T. Yokokawa and H. Ochiai, 
+   **"Software defined radio implementation 
+   of SOCC-based OFDM system with low PAPR,"** 
+   *Proceedings of 2018 IEEE Vehicular Technology Conference Spring* 
+   ***(VTC2018-Spring)***, 
+   Porto, Portugal, June 2018.
+
+1. T. Matsumine and H. Ochiai, 
+   **"A serial concatenation of 
+   binary-input nonbinary-output convolutional code 
+   and recursive convolutional lattice code,"** 
+   *IEEE Access*, 
+   vol. 6, pp. 24809-24817, May 2018.
+   
+1. Y. Hori and H. Ochiai, 
+   **"A new uplink multiple access based on 
+   OFDM with low PAPR, low latency, 
+   and high reliability,"**
+   *IEEE Transactions on Communications*, 
+   vol. 66, no. 5, pp. 1996-2008, May 2018.
+   
+1. T. Murata and H. Ochiai, 
+   **"Performance analysis of CRC codes 
+   for systematic and non-systematic polar codes with list decoding,"** 
+   *Wireless Communications and Mobile Computing*, 
+   vol. 2018, 8 pages, May 2018.
+   
+1. Y. Hori and H. Ochiai, 
+   **"Uplink multiple access based on MIMO-OFDM 
+   with adaptive super-orthogonal convolutional codes 
+   for ultra reliable and low latency communications,"** 
+   *Proceedings of Workshop on 5G TACNET, 
+   2018 IEEE International Conference on Communications* 
+   ***(ICC 2018)***, 
+   Kasas City, MO, May 2018.
+
+1. J. Watanabe and H. Ochiai, 
+   **"A new low-complexity trellis shaping design based on 
+   clipping for PAPR reduction in BICM-OFDM system,"** 
+   *Proceedings of 
+   2018 IEEE Wireless Communications and Networking Conference* 
+   ***(WCNC 2018)***, 
+   Barcelona, Spain, Apr. 2018.
+   
+1. T. Matsumine and H. Ochiai, 
+   **"A new turbo coded modulation approach exploiting non-binary field,"** 
+   *Proceedings of 2018 Radio and Wireless Symposium* 
+   ***(RWS 2018)***, 
+   pp. 72-75, Anaheim, CA, Jan. 2018.
+   
+---
+### 2017
