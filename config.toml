@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "http://examplesite.org"
+baseURL = "http://ochiailab.netlify.app"
 title = "Ochiai Laboratory"
 theme = "airspace-hugo"
 # post pagination

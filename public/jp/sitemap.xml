@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://examplesite.org/jp/faq/</loc>
+    <lastmod>2020-03-23T13:05:29+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.org/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://examplesite.org/jp/faq/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/jp/</loc>
+    <lastmod>2020-03-23T13:05:29+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.org/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://examplesite.org/jp/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/jp/research/</loc>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/jp/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.org/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://examplesite.org/jp/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/jp/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.org/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://examplesite.org/jp/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/jp/members/john-doe/</loc>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/jp/members/mark-dinn/</loc>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/jp/members/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.org/members/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://examplesite.org/jp/members/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/jp/pricing/</loc>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/jp/project/</loc>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/jp/project/rio-furniture-1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/jp/project/rio-furniture-2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/jp/project/rio-furniture-3/</loc>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/jp/project/rio-furniture-4/</loc>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/jp/project/rio-furniture-5/</loc>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/jp/project/rio-furniture-6/</loc>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/jp/service/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.org/service/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://examplesite.org/jp/service/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/jp/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.org/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://examplesite.org/jp/tags/"
+                />
+  </url>
+  
+</urlset>
