@@ -1,5 +1,5 @@
 ---
-title: "International Publications"
+title: "Recent International Publications"
 draft: false
 bg_image: "images/featue-bg.jpg"
 ---

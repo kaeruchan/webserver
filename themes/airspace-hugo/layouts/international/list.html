@@ -7,7 +7,8 @@
 <section class="page-wrapper">
   <div class="container">
     <div class="row">
-      <div class="col-md-4 sticky-top post-content">
+      <div class="col-md-4 sticky-top">
+        <h2>{{ .Title }}</h2>
         <p>{{ .Params.Subtitle | markdownify }}</p>
       </div>
       <div class="col-md-8">
