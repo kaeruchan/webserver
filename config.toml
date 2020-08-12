@@ -142,21 +142,22 @@ hasChildren = true
 
   [[Languages.en.menu.main]]
   parent = "Achievements"
-  name = "Award"
-  URL = "award"
-  weight = 3
-
-  [[Languages.en.menu.main]]
-  parent = "Achievements"
-  name = "International Publications"
+  name = "Int. Publications"
   URL = "international"
   weight = 1
 
   [[Languages.en.menu.main]]
   parent = "Achievements"
-  name = "Domestic Publications"
+  name = "Dom. Publications"
   URL = "domestic"
   weight = 2
+
+  [[Languages.en.menu.main]]
+  parent = "Achievements"
+  name = "Award"
+  URL = "award"
+  weight = 3
+
 
 [[Languages.en.menu.main]]
 name = "News"
@@ -168,7 +169,10 @@ name = "Contact"
 URL = "contact"
 weight = 6
 
-
+[[Languages.en.menu.main]]
+name = "Super-Mjograph"
+URL = "https://www.mjograph.net/"
+weight = 7
 # footer menu
 # [[Languages.en.menu.footer]]
 # name = "Research"
@@ -232,17 +236,18 @@ name = "研究実績"
 weight = 4
 hasChildren = true
 
-  [[Languages.jp.menu.main]]
-  URL = "domestic"
-  name = "国内発表"
-  parent = "研究実績"
-  weight = 2
 
   [[Languages.jp.menu.main]]
   URL = "international"
   name = "国際発表"
   parent = "研究実績"
-  weight = 1 
+  weight = 1
+
+  [[Languages.jp.menu.main]]
+  URL = "domestic"
+  name = "国内発表"
+  parent = "研究実績"
+  weight = 2
 
   [[Languages.jp.menu.main]]
   URL = "award"
@@ -259,6 +264,11 @@ weight = 5
 name = "お問い合わせ"
 URL = "contact"
 weight = 6
+
+[[Languages.jp.menu.main]]
+name = "Super-Mjograph"
+URL = "https://www.mjograph.net/"
+weight = 7
 
 
 # footer menu
