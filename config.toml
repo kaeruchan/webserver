@@ -170,35 +170,35 @@ weight = 6
 
 
 # footer menu
-[[Languages.en.menu.footer]]
-name = "Research"
-URL = "about"
-weight = 1
+# [[Languages.en.menu.footer]]
+# name = "Research"
+# URL = "about"
+# weight = 1
 
-[[Languages.en.menu.footer]]
-name = "Members"
-URL = "members"
-weight = 2
+# [[Languages.en.menu.footer]]
+# name = "Members"
+# URL = "members"
+# weight = 2
 
-[[Languages.en.menu.footer]]
-name = "Domestic Publications"
-URL = "domestic"
-weight = 3
+# [[Languages.en.menu.footer]]
+# name = "Domestic Publications"
+# URL = "domestic"
+# weight = 3
 
-[[Languages.en.menu.footer]]
-name = "International Publications"
-URL = "international"
-weight = 4
+# [[Languages.en.menu.footer]]
+# name = "International Publications"
+# URL = "international"
+# weight = 4
 
-[[Languages.en.menu.footer]]
-name = "News"
-URL = "news"
-weight = 5
+# [[Languages.en.menu.footer]]
+# name = "News"
+# URL = "news"
+# weight = 5
 
-[[Languages.en.menu.footer]]
-name = "Contact"
-URL = "contact"
-weight = 6
+# [[Languages.en.menu.footer]]
+# name = "Contact"
+# URL = "contact"
+# weight = 6
 
 ################################ Japanese Language ########################
 [Languages.jp]
@@ -236,16 +236,19 @@ hasChildren = true
   URL = "domestic"
   name = "国内発表"
   parent = "研究実績"
+  weight = 2
 
   [[Languages.jp.menu.main]]
   URL = "international"
   name = "国際発表"
   parent = "研究実績"
+  weight = 1 
 
   [[Languages.jp.menu.main]]
   URL = "award"
   name = "受賞"
   parent = "研究実績"
+  weight = 3
 
 [[Languages.jp.menu.main]]
 name = "ニュース"
