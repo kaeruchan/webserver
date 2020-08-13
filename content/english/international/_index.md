@@ -1206,7 +1206,7 @@ pp. 2388-2392, Melbourne, Australia, May. 2006.
    *in Proceedings of 2005 IEEE International Conference 
    on Communications* 
    ***(ICC 2005)***, 
-   pp. 2437-2441, Seoul, Korea, May 2005.
+   pp. 2437-2441, Seoul, Korea, May. 2005.
    
 1. H. Ochiai, P. Mitran, H. V. Poor, and V. Tarokh, 
    **"On the effects of phase estimation errors on collaborative beamforming 
