@@ -177,3 +177,130 @@ bg_image: "images/featue-bg.jpg"
    
 ---
 ### 2017
+
+1. M. Arakawa and H. Ochiai, 
+   **"On throughput optimization for coded OFDM 
+   with variable cyclic prefix length,"** 
+   *Proceedings of The 20th International Symposium 
+   on Wireless Personal Multimedia Communications* 
+   ***(WPMC 2017)***, 
+   Indonesia, Dec. 2017.
+   
+1. Y. Hama and H. Ochiai, 
+   **"Performance analysis of matched filter detector 
+   for MIMO systems in Rayleigh fading channels,"** 
+   *in Proceedings of IEEE Global Communications Conference* 
+   ***(GLOBECOM 2017)***, 
+   Singapore, Dec. 2017.
+   
+1. T. Matsumine and H. Ochiai, 
+   **"Triple parallel concatenated 
+   trellis coded modulation,"** 
+   *Proceedings of IEEE International 
+   Symposium on Personal, 
+   Indoor and Mobile Radio Communications* 
+   ***(PIMRC2017)***, 
+   Montreal, QC, Canada, Oct. 2017.
+   
+1. H. Ochiai, 
+   **"Fourth-order moment analysis of filtered 
+   single-carrier and OFDM signals,"**
+   *Proceedings of 86th Vehicular Technology Conference* 
+   ***(VTC2017-Fall)***, 
+   Toronto, Canada, Sep. 2017.
+   
+1. F. Ono, H. Ochiai, R. Miura and F. Kojima,
+   **"On spectral sharing based on power control 
+   for aerial and ground communication links,"** 
+   *Proceedings of 86th Vehicular Technology Conference* 
+   ***(VTC2017-Fall)***, 
+   Toronto, Canada, Sep. 2017.
+   
+1. S. Hagihara and H. Ochiai,
+   **"An adaptive MIMO-BICM system 
+   with CRC-assisted two-stage interference cancellation,"** 
+   *Proceedings of 2017 IEEE 18th International Workshop 
+   on Signal Processing Advances in Wireless Communications* 
+   ***(SPAWC 2017)***, 
+   Sapporo, Japan, Jul. 2017.
+   
+1. T. Lee and H. Ochiai,
+   **"A new trellis shaping design 
+   for peak power reduction of 
+   SC-FDMA signals with high-order QAM,"** 
+   *IEEE Transactions on Vehicular Technology*,
+   vol. 66, no. 6, pp. 5030-5042, Jun. 2017.
+   
+1. R. Yoshizawa and H. Ochiai, 
+   **"Energy Efficiency Improvement 
+   of Coded OFDM Systems Based on PAPR Reduction,"**
+   *IEEE Systems Journal*, 
+   vol. 11, no.2, pp717—728, June 2017.
+   
+1. T. Murata and H. Ochiai, 
+   **"On design of CRC codes for polar codes 
+   with successive cancellation list decoding,"**
+   *Proceedings of 2017 IEEE International Symposium 
+   on Information Theory* 
+   ***(ISIT 2017)***, 
+   Aachen, Germany, Jun. 2017.
+   
+1. V. Singh and H. Ochiai,
+   **"An efficient time switching protocol 
+   with adaptive power splitting 
+   for wireless energy harvesting relay networks,"** 
+   *Proceedings of 2017 IEEE Vehicular Technology Conference 
+   Spring* 
+   ***(VTC2017-Spring)***,
+   Sydney, NSW, Australia, Jun. 2017.
+
+1. M. Matsuoka, R. Yoshizawa, and H. Ochiai, 
+   **"Peak and average power reduction of OFDM signals based 
+   on trellis shaping with controllable region expansion,"** 
+   *Wireless Personal Communications*, 
+   vol. 93, no. 3, pp. 737-754, Apr. 2017.
+   
+1. Y. Yamashita and H. Ochiai, 
+   **"A classification of OFDM signals with 
+   or without DFT precoding based on high-order moment,"** 
+   *Proceedings of 2017 IEEE International Symposium 
+   on Dynamic Spectrum Access Networks* 
+   ***(DySPAN 2017)***, 
+   Baltimore, MD, Mar. 2017.
+
+1. R. Yoshizawa and H. Ochiai,
+   **"Trellis-assisted constellation subset 
+   selection for PAPR reduction of OFDM signals,"** 
+   *IEEE Transactions on Vehicular Technology*, 
+   vol. 66, no. 3, pp. 2183-2198, Mar. 2017.
+   
+1. V. Singh and H. Ochiai,
+   **"Performance analysis of the 
+   clustering-based multihop wireless energy harvesting 
+   sensor networks over symmetric and asymmetric fading channels,"** 
+   *International Journal of Distributed Sensor Networks*, 
+   vol. 13, no. 2, Feb. 2017.
+
+1. V. Singh and H. Ochiai, 
+   **"Throughput improvement by 
+   cluster-based multihop wireless networks 
+   with energy harvesting relays,"**
+   *Proceedings of 2017 IEEE Topical Conference 
+   on Wireless Sensors and Sensor Networks* 
+   ***(WiSNet 2017)***, 
+   Phoenix, AZ, USA, Jan. 2017.
+
+1. Y. Hori and H. Ochiai, 
+   **"Performance analysis of 
+   multiuser detection and decoding 
+   for subcarrier hopping multiple access,"** 
+   *Proceedings of 2017 14th IEEE Annual 
+   Consumer Communications & Networking Conference*
+   ***(CCNC 2017)***, 
+   Las Vegas, NV, USA, Jan. 2017.
+   
+---
+
+### 2016
+
+
