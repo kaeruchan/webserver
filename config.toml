@@ -115,7 +115,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 2
 # copyright
-copyright = "Copyright &copy; 2020 [Ochiailab](https://ochiailab.dnj.ynu.ac.jp) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [Ochiailab](https://www.ochiailab.dnj.ynu.ac.jp) All Rights Reserved"
 
 
 ######################### english navigation #############################
@@ -211,7 +211,7 @@ languageCode = "jp-ja"
 contentDir = "content/japanese"
 weight = 1
 # copyright
-copyright = "Copyright &copy; 2020 [Ochiailab](https://ochiailab.dnj.ynu.ac.jp) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [Ochiailab](https://www.ochiailab.dnj.ynu.ac.jp) All Rights Reserved"
 
 
 ######################### japanese navigation #############################
