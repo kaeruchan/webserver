@@ -37,7 +37,7 @@ featured_service:
 
       
 ############################# Service ###############################
-service:
+intro:
   enable : true
   title : "Welcome to Ochiai Laboratory"
   service_item:
