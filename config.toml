@@ -175,7 +175,7 @@ URL = "https://www.mjograph.net/"
 weight = 7
 
 [[Languages.en.menu.main]]
-name = "Wiki (Only for members)"
+name = "Wiki (Members only)"
 URL = "https://sites.google.com/a/ochiailab.com/wiki/"
 weight = 8
 # footer menu
@@ -275,7 +275,10 @@ name = "Super-Mjograph"
 URL = "https://www.mjograph.net/"
 weight = 7
 
-
+[[Languages.jp.menu.main]]
+name = "Wiki （メンバー限定）"
+URL = "https://sites.google.com/a/ochiailab.com/wiki"
+weight = 8
 # footer menu
 # [[Languages.jp.menu.footer]]
 # name = "研究テーマ"
