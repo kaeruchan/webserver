@@ -8,7 +8,8 @@ mission_vision:
 
 
       落合　秀樹
-      
+
+      <table> <thead> <tr> <th>a</th> <th>b</th> <th>c</th> </tr> </thead> <tbody> <tr> <td>i</td> <td>j</td> <td>k</td> </tr> <tr> <td>x</td> <td>y</td> <td>z</td> </tr> </tbody> </table>
       
       "
 
