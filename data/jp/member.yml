@@ -1,0 +1,147 @@
+################################## About #####################################
+mission_vision:
+  enable : true
+  tabs:
+    - name : "教授"
+      content : "
+      ![Hideki Ochiai](../images/members/photo_ochiai.jpg)
+
+
+      落合秀樹
+
+
+      
+      "
+
+
+    # tab item loop
+    - name : "秘書"
+      content : "
+      ![Naoko Shibukawa](../images/members/photo_shibukawa.png)
+
+
+    　澁川　直子
+      "
+
+    # tab item loop
+    - name : "博士コース"
+      content : "
+
+      ![Ying Sun](../images/members/D/sun.jpg)
+
+
+      孫　瑩（スン　エイ）
+
+
+      ![Tianji Shen](../images/members/D/shen.jpg)
+
+
+      沈　天霽（チン　テンサイ）
+
+
+      ![Yuto Hama](../images/members/D/hama.jpeg)
+
+
+      濱　優人（はま　ゆうと）
+
+
+      ![Ahmad Shahpoor Seraj](../images/members/D/seraj2.jpg)
+
+
+      セラジ・アーメド・シャーブール (SELAJ, Ahmad Shahpoor)
+      "
+      
+    # tab item loop
+    - name : "修士2年"
+      content : "
+      ![Kanji Kamada](../images/members/M2019/kamada.jpg)
+
+
+      鎌田　貫志（かまだ　かんじ）
+
+
+      ![Yuki Yajima](../images/members/M2019/yajima.jpg)
+
+
+      矢島　佑輝（やじま　ゆうき）
+
+
+      ![Shuhei Yamaguchi](../images/members/M2019/yamaguchi.jpg)
+
+
+      山口　修平（やまぐち　しゅうへい）
+
+
+      ![Kyoka Ujisawa](../images/members/M2019/ujisawa.jpeg)
+
+
+      宇治澤　京香（うじさわ　きょうか）
+
+
+      "
+      
+    # tab item loop
+    - name : "修士1年"
+      content : "
+      ![Ryo Yamamuro](../images/members/M2020/yamamuro.jpg)
+
+
+      山室　瞭（やまむろ　りょう）
+
+
+      ![Haruhiko Hasegawa](../images/members/M2020/hasegawa.jpg)
+
+
+      長谷川　喜久（はせがわ　はるひろ）
+
+
+      ![Junnosuke Hiyama](../images/members/M2020/hiyama.jpg)
+
+
+      檜山　淳之介（ひやま　じゅんのすけ）
+      "
+
+    # tab item loop
+    - name : "B4"
+      content : "
+      ![Daichi Muramatsu](../images/members/B4/muramatsu.jpg)
+
+
+      村松　大地（むらまつ　だいち）
+
+
+      ![Eito Kurihara](../images/members/B4/kurihara.jpg)
+
+
+      栗原　英人（くりはら　えいと）
+
+
+      ![Kosuke Ikeya](../images/members/B4/ikeya.jpg)
+
+
+      池谷　恒亮（いけや　こうすけ）
+
+
+      ![Airi Kaneko](../images/members/B4/kaneko.png)
+
+
+      金子　愛理（かねこ　あいり）
+      "
+
+
+    # tab item loop
+    - name : "Alumni & Alumnae"
+      content : "
+      2020年3月修了：
+      1. 博士　松峯 利樹
+      1. 修士　韓 笑宇
+      1. 修士　兼山 紀章
+      1. 修士　瀧澤 峻
+      1. 修士　枡川 健太郎
+      1. 修士　山口  良平
+      1. 学士　佐々木 佑一
+      1. 学士　山室 瞭
+      1. 学士　長谷川 喜久
+      1. 学士　檜山 淳之介
+      "
+
