@@ -45,7 +45,7 @@ banner:
 
 
 ############################# Intro  ############################
-intro:
+service:
   enable : true
   # service content comes from "data/*/service.yml" file
 
