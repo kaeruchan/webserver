@@ -43,13 +43,13 @@ service:
   service_item:
     # service item loop
     - icon : ion-ios-book #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Researches
+      name: [Researches](./research)
       content: "Introduction of Laboratory Researches."
       URL: "research"
 
     # service item loop
     - icon : ion-university #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Members
+      name: [Members](./members)
       content: "Introduction of Ochiai Laboratory Members."
       URL: "members"
 
