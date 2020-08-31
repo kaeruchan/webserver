@@ -51,11 +51,11 @@ service:
 
     # service item loop
     - icon : ion-ios-paper #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: International Publications
+      name: Int. Publications
 
     # service item loop
     - icon : ion-ios-paper-outline #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Domestic Publications
+      name: Dom. Publications
 
     # service item loop
     - icon : ion-trophy #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
