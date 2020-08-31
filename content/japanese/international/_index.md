@@ -1,5 +1,5 @@
 ---
-title: "International Publications"
+title: "国際発表"
 draft: false
 bg_image: "images/featue-bg.jpg"
 ---
