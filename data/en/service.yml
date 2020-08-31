@@ -42,7 +42,8 @@ service:
   title : "Welcome to Ochiai Laboratory"
   service_item:
     # service item loop
-    - icon : ion-ios-book #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-ios-book
+      #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Researches
 
     # service item loop
