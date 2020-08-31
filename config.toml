@@ -178,6 +178,7 @@ weight = 7
 name = "Wiki (Members only)"
 URL = "https://sites.google.com/a/ochiailab.com/wiki/"
 weight = 8
+
 # footer menu
 # [[Languages.en.menu.footer]]
 # name = "Research"
