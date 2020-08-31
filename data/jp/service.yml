@@ -43,35 +43,35 @@ service:
   service_item:
     # service item loop
     - icon : ion-ios-book #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Researches
+      name: 研究
 
     # service item loop
     - icon : ion-university #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Members
+      name: メンバー
 
     # service item loop
     - icon : ion-ios-paper #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Int. Publications
+      name: 国際発表
 
     # service item loop
     - icon : ion-ios-paper-outline #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Dom. Publications
+      name: 国内発表
 
     # service item loop
     - icon : ion-trophy #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Award
+      name: 受賞
 
     # service item loop
     - icon : ion-paper-airplane #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: News
+      name: ニュース
 
     # service item loop
     - icon : ion-email #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Contact
+      name: お問い合わせ
 
     # service item loop
     - icon : ion-ios-bookmarks #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Wiki (Members Only)
+      name: Wiki (メンバー限定)
       
 ############################# call to action #################################
 cta:
