@@ -43,7 +43,7 @@ service:
   service_item:
     # service item loop
     - icon : ion-ios-book #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: [Researches](./research)
+      name: <a herf="research">Researches</a>
       content: "Introduction of Laboratory Researches."
       URL: "research"
 
