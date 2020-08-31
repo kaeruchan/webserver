@@ -173,6 +173,11 @@ weight = 6
 name = "Super-Mjograph"
 URL = "https://www.mjograph.net/"
 weight = 7
+
+[[Languages.en.menu.main]]
+name = "Wiki (Only for members)"
+URL = "https://sites.google.com/a/ochiailab.com/wiki/"
+weight = 8
 # footer menu
 # [[Languages.en.menu.footer]]
 # name = "Research"
