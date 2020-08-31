@@ -2,7 +2,7 @@
 mission_vision:
   enable : true
   tabs:
-    - name : "教授"
+    - name : "Professor"
       content : "
       ![Hideki Ochiai](../images/members/photo_ochiai.jpg)
 
@@ -15,7 +15,7 @@ mission_vision:
 
 
     # tab item loop
-    - name : "秘書"
+    - name : "Secretary"
       content : "
       ![Naoko Shibukawa](../images/members/photo_shibukawa.png)
 
@@ -24,7 +24,7 @@ mission_vision:
       "
 
     # tab item loop
-    - name : "博士コース"
+    - name : "PhD Course"
       content : "
 
       ![Ying Sun](../images/members/D/sun.jpg)
@@ -52,7 +52,7 @@ mission_vision:
       "
       
     # tab item loop
-    - name : "修士2年"
+    - name : "M2"
       content : "
       ![Kanji Kamada](../images/members/M2019/kamada.jpg)
 
@@ -81,7 +81,7 @@ mission_vision:
       "
       
     # tab item loop
-    - name : "修士1年"
+    - name : "M1"
       content : "
       ![Ryo Yamamuro](../images/members/M2020/yamamuro.jpg)
 
